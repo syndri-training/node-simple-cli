@@ -15,7 +15,7 @@ In this course we'll cover:
 
 ## Getting Started
 
-1. Sign up for the free course at [Syndri Training](https://syndritraining.com) when it is available. Alternatively, the videos will also be available on Youtube.
+1. Sign up for the free course at [Syndri Training](https://syndritraining.com/p/building-a-node-command-line-interface/) when it is available. Alternatively, the videos will also be available on Youtube.
 
 2. A basic understanding of Node.js and npm is needed to complete this course.
 
