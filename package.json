@@ -1,0 +1,18 @@
+{
+  "name": "simple-cli",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "cli",
+    "npm",
+    "node",
+    "javascript",
+    "command-line"
+  ],
+  "author": "Sean Villagracia <svillagracia@gmail.com>",
+  "license": "ISC"
+}
