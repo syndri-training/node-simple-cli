@@ -13,9 +13,6 @@ console.log(
   )
 );
 
-const run = async () => {
-  suppose.createProject();
-}
+suppose.createProject();
 
-run();
 
