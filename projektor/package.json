@@ -17,7 +17,6 @@
     "clui": "^0.3.6",
     "figlet": "^1.2.0",
     "inquirer": "^5.1.0",
-    "lodash": "^4.17.5",
     "minimist": "^1.2.0",
     "suppose": "^0.6.2",
     "touch": "^3.1.0"
