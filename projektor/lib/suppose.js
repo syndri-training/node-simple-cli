@@ -8,6 +8,7 @@ module.exports = {
   createProject: async () => {
     const package = await inquirer.askPackageInfo();
 
+    // If user says no, cancel process.
     if (!package.ok) {
       console.log(chalk.yellow.bold('Aborted.'));
       return;
